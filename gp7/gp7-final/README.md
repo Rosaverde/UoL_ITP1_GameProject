@@ -33,4 +33,4 @@ Complete the base game:
 	2. Create platforms Use the factory pattern to create platforms. Watch the tutorial video from the topic to do this. 
 	3. Create enemies Use a constructor function to create enemies. Watch the tutorial video from the topic to do this. 
 
-![alt text](https://github.com/Rosaverde/UoL_ITP1_GameProject/blob/main/gp7/solution.gif)
+![alt text](https://github.com/Rosaverde/UoL_ITP1_GameProject/blob/main/gp7/gp7-final/solution.gif)
